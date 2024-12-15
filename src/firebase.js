@@ -6,7 +6,7 @@ import { getDatabase, ref, set, get } from "firebase/database";
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCHtQr76Qdtbuc0BiAfE6203kHWV77WDmU",
+  apiKey: "apikey",
   authDomain: "movie-recommendation-9881e.firebaseapp.com",
   databaseURL: "https://movie-recommendation-9881e-default-rtdb.firebaseio.com",
   projectId: "movie-recommendation-9881e",
